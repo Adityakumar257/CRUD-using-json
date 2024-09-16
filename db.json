@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "bd03",
+      "name": "Aditya Kumar Bihar",
+      "email": "aditya62062@gmail.com",
+      "phone": "807"
+    },
+    {
+      "id": "a35b",
+      "name": "Aditya Kumar",
+      "email": "aditya62062@gmail.com",
+      "phone": "06206235807"
+    }
+  ]
+}

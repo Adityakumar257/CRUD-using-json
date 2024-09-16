@@ -1,2 +1,8 @@
-# CRUD-using-json
-CRUD in Web Development CRUD operations are commonly used in web applications where users interact with databases. For example:  Create: Adding a new blog post. Read: Displaying all blog posts on a webpage. Update: Editing an existing blog post. Delete: Removing a blog post. Technologies for CRUD Operations 
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
